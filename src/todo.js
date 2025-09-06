@@ -16,3 +16,4 @@ function getTodos() {
 
 // Export functions
 module.exports = { addTodo, toggleTodo, getTodos };
+// for typeScript export = { addTodo, toggleTodo, getTodos };
